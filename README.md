@@ -9,4 +9,4 @@ Klipper configuration for:
 
 Configuration files to be copied to clipboard and pasted into configuration page of klipper.
 
-http://github.com/reefwarrior/Klipper/configurations/ender3.cfg
+https://github.com/reefwarrior/Klipper/blob/master/configurations/ender3.cfg
